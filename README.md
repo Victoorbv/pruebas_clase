@@ -30,3 +30,9 @@ El codigo asi
 print("Hola Mundo)
 ```
 
+## Tabla
+  | Cod | Descripción |
+  | --- | --- |
+  | 1 | git |
+  | 2 | docker |
+  | 3 | Odoo |
