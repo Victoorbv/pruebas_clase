@@ -19,6 +19,9 @@ Ahora lista
 - Item 2
   -Item 2.1
   -Item 2.2
+-Item 3
+-Item 4
+
 
 ## Codigo
 
@@ -30,6 +33,7 @@ El codigo asi
 print("Hola Mundo)
 ```
 
+Tambien puedo formatear una `palabra` o `grupo de palabaras solas`
 ## Tabla
   | Cod | Descripción |
   | --- | --- |
